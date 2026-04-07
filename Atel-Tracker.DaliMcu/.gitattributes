@@ -1,0 +1,6 @@
+# Default: enforce LF for all text files
+* text=auto eol=lf
+
+# Visual Studio project files - Windows tools expect CRLF
+*.vcproj   text eol=crlf
+*.vcxproj  text eol=crlf
