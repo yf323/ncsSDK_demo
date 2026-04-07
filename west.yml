@@ -1,0 +1,12 @@
+manifest:
+  remotes:
+    - name: ncs
+      url-base: https://github.com/nrfconnect
+  projects:
+    - name: nrf
+      repo-path: sdk-nrf
+      remote: ncs
+      revision: v3.2.4   # 替换为你需要的 NCS 版本
+      import: true
+  self:
+    path: ncsSDK_demo    # 与你的仓库名保持一致
