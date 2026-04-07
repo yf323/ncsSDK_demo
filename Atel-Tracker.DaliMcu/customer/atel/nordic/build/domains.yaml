@@ -1,0 +1,7 @@
+default: nordic
+build_dir: F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build
+domains:
+  - name: nordic
+    build_dir: F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/nordic
+flash_order:
+  - nordic

@@ -1,0 +1,2 @@
+# Load Zephyr board Kconfig descriptions.
+osource "F:/myGithub/my-workspace/zephyr/boards/nordic/nrf54l15dk/Kconfig"

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/CMakeFiles/nordic"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/CMakeFiles/nordic.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/CMakeFiles/nordic-complete.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-build.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-configure.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-download.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-install.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-mkdir.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-patch.rule"
+		},
+		{
+			"file" : "F:/myGithub/my-workspace/ncsSDK_demo/Atel-Tracker.DaliMcu/customer/atel/nordic/build/_sysbuild/sysbuild/images/nordic-prefix/src/nordic-stamp/nordic-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nordic"
+		],
+		"name" : "nordic"
+	}
+}

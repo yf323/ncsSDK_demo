@@ -1,0 +1,2 @@
+"nrf":"F:/myGithub/my-workspace/nrf":"F:/myGithub/my-workspace/nrf/sysbuild"
+"mcuboot":"F:/myGithub/my-workspace/bootloader/mcuboot":"F:/myGithub/my-workspace/bootloader/mcuboot/boot/zephyr/sysbuild"
